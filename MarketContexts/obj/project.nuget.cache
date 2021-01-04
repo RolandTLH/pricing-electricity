@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2MfiPwn8uNhTQn07nxtNEyJJ74sSa/VJfpFBVooqMeImkgWQgUpNXMssXpVBQ5EVvLrz9Xu9p/daQnxfVF58g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r.tran.le.henand\\OneDrive - TLH Perso\\OneDrive\\Code Project\\pricing-electricity\\MarketContexts\\MarketContexts.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r.tran.le.henand\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

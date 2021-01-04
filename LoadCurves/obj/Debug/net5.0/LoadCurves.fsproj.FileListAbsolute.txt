@@ -1,0 +1,8 @@
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\obj\Debug\net5.0\LoadCurves.fsprojAssemblyReference.cache
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\obj\Debug\net5.0\LoadCurves.AssemblyInfoInputs.cache
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\obj\Debug\net5.0\LoadCurves.AssemblyInfo.fs
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\bin\Debug\net5.0\LoadCurves.deps.json
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\bin\Debug\net5.0\LoadCurves.dll
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\bin\Debug\net5.0\LoadCurves.pdb
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\obj\Debug\net5.0\LoadCurves.dll
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\LoadCurves\obj\Debug\net5.0\LoadCurves.pdb

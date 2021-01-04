@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWA9HbLI6uEgX1rcHiSlmh+sRlmA3rQso2e/XR2VSpCoretMZzHXX6marVppARUVhxXyfCAa2g3OrdGe7mIdCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r.tran.le.henand\\OneDrive - TLH Perso\\OneDrive\\Code Project\\pricing-electricity\\LoadCurves\\LoadCurves.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r.tran.le.henand\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

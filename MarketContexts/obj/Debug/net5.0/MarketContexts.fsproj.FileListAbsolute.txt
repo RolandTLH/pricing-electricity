@@ -1,0 +1,8 @@
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\bin\Debug\net5.0\MarketContexts.deps.json
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\bin\Debug\net5.0\MarketContexts.dll
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\bin\Debug\net5.0\MarketContexts.pdb
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\obj\Debug\net5.0\MarketContexts.fsprojAssemblyReference.cache
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\obj\Debug\net5.0\MarketContexts.AssemblyInfoInputs.cache
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\obj\Debug\net5.0\MarketContexts.AssemblyInfo.fs
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\obj\Debug\net5.0\MarketContexts.dll
+C:\Users\r.tran.le.henand\OneDrive - TLH Perso\OneDrive\Code Project\pricing-electricity\MarketContexts\obj\Debug\net5.0\MarketContexts.pdb
